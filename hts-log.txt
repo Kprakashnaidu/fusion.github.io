@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 08 Jul 2021 11:19:39 at http://pxdraft.com/wrap/fusion/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://pxdraft.com/wrap/fusion/ -O1 "C:\My Web Sites\fusion" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:22:17	Warning: 	file not stored in cache due to bogus state (broken size, expected 96839 got 89392): pxdraft.com/wrap/fusion/static/img/blog-3.jpg
+11:22:51	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/img/product-2.png (from pxdraft.com/wrap/fusion/)
+11:23:15	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/img/product-4.png (from pxdraft.com/wrap/fusion/)
+11:23:17	Warning: 	Retry after error -4 (Incorrect length (89392 Bytes, 96839 expected)) at link pxdraft.com/wrap/fusion/static/img/blog-3.jpg (from pxdraft.com/wrap/fusion/)
+11:23:19	Error: 	"Not Found" (404) at link pxdraft.com/wrap/fusion/pxdraft.com (from pxdraft.com/wrap/fusion/)
+11:25:19	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/bootstrap/js/bootstrap.bundle.min.js (from pxdraft.com/wrap/fusion/)
+11:30:22	Warning: 	file not stored in cache due to bogus state (broken size, expected 133034 got 86594): pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-brands-400.eot
+11:35:29	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/bootstrap/icons/fonts/bootstrap-icons.woff?8bd4575acf83c7696dc7a14a966660a3 (from pxdraft.com/wrap/fusion/static/vendor/bootstrap/icons/bootstrap-icons.css)
+11:35:29	Warning: 	Retry after error -4 (Incorrect length (86594 Bytes, 133034 expected)) at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-brands-400.eot (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+11:35:29	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-brands-400.woff2 (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+11:35:29	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-brands-400.ttf (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+11:37:41	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-brands-400.svg (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+11:37:43	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-regular-400.eot (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+11:37:48	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-solid-900.woff (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+11:37:48	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-solid-900.ttf (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+11:37:50	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-solid-900.svg (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+11:37:53	Error: 	"Not Found" (404) at link pxdraft.com/wrap/fusion/static/vendor/owl-carousel/css/owl.video.play.png (from pxdraft.com/wrap/fusion/static/vendor/owl-carousel/css/owl.carousel.min.css)
+11:37:53	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/bootstrap/icons/fonts/bootstrap-icons.woff?8bd4575acf83c7696dc7a14a966660a3 (from pxdraft.com/wrap/fusion/static/vendor/bootstrap/icons/bootstrap-icons.css)
+11:38:01	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-brands-400.eot (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+11:38:03	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-brands-400.woff2 (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+11:38:04	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-brands-400.ttf (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+11:40:43	Warning: 	Retry after error -2 (Receive Time Out) at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-solid-900.svg (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+11:44:28	Error: 	"Receive Time Out" (-2) after 2 retries at link pxdraft.com/wrap/fusion/static/vendor/fontawesome/webfonts/fa-solid-900.svg (from pxdraft.com/wrap/fusion/static/vendor/fontawesome/css/all.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 minutes 49 seconds : 97 links scanned, 75 files written (6666340 bytes overall) [6538636 bytes received at 4391 bytes/sec], 597963 bytes transferred using HTTP compression in 21 files, ratio 13%, 1.7 requests per connection
+(3 errors, 20 warnings, 0 messages)

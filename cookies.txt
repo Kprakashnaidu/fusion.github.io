@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pxdraft.com	TRUE	/	FALSE	1999999999	csrf_cookie_name	750a80e408924719f4a5567ce66829fe
+pxdraft.com	TRUE	/	FALSE	1999999999	ci_session	19274257023abf00487815c8fc802f29c64b98b5
+
